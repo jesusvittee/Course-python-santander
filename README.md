@@ -45,7 +45,7 @@ Este repositorio contiene los ejercicios, prácticas y proyectos realizados dura
 
 ## 🤝 Conectemos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jesusvittee)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jesusnicolasvite/)
 - 💻 [GitHub](https://github.com/jesusvittee)
 
 ---
